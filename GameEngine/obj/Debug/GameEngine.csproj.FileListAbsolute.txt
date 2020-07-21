@@ -1,0 +1,10 @@
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\bin\Debug\GameEngine.exe.config
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\bin\Debug\GameEngine.exe
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\bin\Debug\FNA.dll
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\obj\Debug\GameEngine.csprojAssemblyReference.cache
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\obj\Debug\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\obj\Debug\GameEngine.csproj.CopyComplete
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\obj\Debug\GameEngine.exe
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\obj\Debug\GameEngine.pdb
+C:\Users\barge\projects\FNA\GameEngine\GameEngine\bin\Debug\Content\shovel.png
